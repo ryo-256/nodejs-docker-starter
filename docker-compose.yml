@@ -1,0 +1,8 @@
+services:
+  app:
+    build: .
+    volumes:
+      - .:/usr/src/app
+    environment:
+      - NODE_ENV=development
+    entrypoint: ["node"]
