@@ -3,7 +3,7 @@
 
 1. **リポジトリをクローンする**:
     ```sh
-    git clone https://github.com/ryo-256/nodejs-starter-kit.git
+    git clone https://github.com/ryo-256/nodejs-docker-starter.git
     cd nodejs-starter-kit
     ```
 
